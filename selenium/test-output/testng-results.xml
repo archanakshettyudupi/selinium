@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-31T14:00:35 IST" name="Default suite" finished-at="2024-01-31T14:00:44 IST" duration-ms="8486">
+    <groups>
+    </groups>
+    <test started-at="2024-01-31T14:00:35 IST" name="Default test" finished-at="2024-01-31T14:00:44 IST" duration-ms="8486">
+      <class name="selenium_123.chrome_browser">
+        <test-method signature="run()[pri:0, instance:selenium_123.chrome_browser@6fdbe764]" started-at="2024-01-31T14:00:36 IST" name="run" finished-at="2024-01-31T14:00:44 IST" duration-ms="8373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- selenium_123.chrome_browser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
